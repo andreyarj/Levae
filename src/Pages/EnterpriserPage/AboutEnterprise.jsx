@@ -5,7 +5,7 @@ import LocalPage from '../../Comps/LocalPage';
 function AboutEnterprise() {
     return (
         <>
-        <section id="AboutEnterprise" className='flex flex-col flex-nowrap items-center justify-center gap-[10px] w-full h-auto p-[20px] dark:bg-darkslate bg-white'>
+        <section id="AboutEnterprise" className='flex flex-col flex-nowrap items-center justify-center 6:gap-[20px] gap-[10px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
 
             <LocalPage FirstText='Inicio →' SecoundText='Empresa'/>
 

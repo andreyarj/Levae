@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 function Header() {
     return (
         <>
-        <header className='flex flex-row flex-nowrap items-center justify-between w-full h-[100px] px-[20px] dark:bg-darkslate bg-white shadow-lg hover:shadow-xl transition .3s'>
+        <header className='flex flex-row flex-nowrap items-center justify-between w-full h-[100px] 6:px-[60px] px-[20px] dark:bg-darkslate bg-white shadow-lg hover:shadow-xl transition .3s'>
 
         <Link to='/'><img src={Logo} alt="Icon Levae" className='w-[50px]'/></Link>
 

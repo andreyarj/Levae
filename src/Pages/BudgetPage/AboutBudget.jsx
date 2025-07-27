@@ -9,7 +9,7 @@ function AboutBudget() {
 
             <LocalPage FirstText='Inicio →' SecoundText='Orçamentos'/>
 
-            <form name="Budget" netlify className='reveal flex flex-col flex-nowrap items-start justify-center 6:gap-[15px] gap-[10px] max-w-[520px] w-full h-auto 6:p-[15px] p-[10px] dark:bg-gray bg-slate rounded-[10px]'>
+            <form name="Budget" netlify className='flex flex-col flex-nowrap items-start justify-center 6:gap-[15px] gap-[10px] max-w-[520px] w-full h-auto 6:p-[15px] p-[10px] dark:bg-gray bg-slate rounded-[10px]'>
 
                 <input type="text" name="Name" id="Name" className='px-[10px] 6:h-[50px] h-[40px] w-full dark:bg-darkslate bg-white font-Stara dark:text-white text-darkslate text-[1rem] 6:text-[1.25rem] border-l-[4px] invalid:border-l-yellow border-l-sky rounded-[5px] dark:placeholder:text-white placeholder:text-darkslate' required placeholder='Nome' autoComplete='no'/>
 

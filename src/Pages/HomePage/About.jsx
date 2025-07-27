@@ -5,7 +5,7 @@ import { FaCheck } from "react-icons/fa6";
 function About() {
     return (
         <>
-        <section id='About' className='reveal flex flex-col flex-nowrap items-center justify-center gap-[10px] w-full p-[20px] bg-sky'>
+        <section id='About' className='flex flex-col flex-nowrap items-center justify-center gap-[10px] w-full p-[20px] bg-sky'>
 
             <h1 className='w-full text-center text-white 5:text-[3rem] text-[2rem] font-Glacier'>Porque usar nosso <span className='text-darkslate'>Guarda Móveis</span>?</h1>
 

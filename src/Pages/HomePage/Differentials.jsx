@@ -8,7 +8,7 @@ import { BsGlobeAmericas } from "react-icons/bs";
 function Differentials() {
     return (
         <>
-        <section id='Differentials' className='reveal flex flex-col flex-nowrap items-center justify-center gap-[20px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
+        <section id='Differentials' className='flex flex-col flex-nowrap items-center justify-center gap-[20px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
 
             <Differential Icon={BiTimeFive} Text='Rapidez e Agilidade'/>            
             <Differential Icon={FaBoxOpen} Text='Alto Cuidado'/>            

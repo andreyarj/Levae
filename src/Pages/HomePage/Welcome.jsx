@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Welcome() {
     return (
         <>
-        <section id='Welcome' className='reveal flex flex-col flex-nowrap items-start justify-start gap-[10px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] bg:white dark:bg-darkslate'>
+        <section id='Welcome' className='flex flex-col flex-nowrap items-start justify-start gap-[10px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] bg:white dark:bg-darkslate'>
 
             <h1 className='w-full h-auto font-Glacier dark:text-white text-darkslate 5:text-[3rem] text-[2rem]'>Somos Levaê</h1>
 

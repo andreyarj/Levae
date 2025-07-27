@@ -8,13 +8,13 @@ function AboutResidentialChange() {
 
             <LocalPage FirstText='Inicio → Serviço → ' SecoundText='Mudança Residencial'/>
 
-            <p className='reveal w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Contamos com especialistas experientes na montagem e desmontagem de armários, Mesas e móveis sofisticados, Oferecendo também embalagens adequadas para todo tipo de objeto.</p>
+            <p className='w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Contamos com especialistas experientes na montagem e desmontagem de armários, Mesas e móveis sofisticados, Oferecendo também embalagens adequadas para todo tipo de objeto.</p>
         
-            <p className='reveal w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Nossa equipe é altamente treinada e equipada com as melhores ferramentas para executar qualquer tipo de serviço, Desde o transporte de itens delicados até os mais pesados.</p>
+            <p className='w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Nossa equipe é altamente treinada e equipada com as melhores ferramentas para executar qualquer tipo de serviço, Desde o transporte de itens delicados até os mais pesados.</p>
         
-            <p className='reveal w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Utilizamos cobertores e capas apropriadas para proteger todos os móveis e eletrodomésticos, Além de materiais como plástico bolha e papelão ondulado, Garantindo mais segurança durante todo o processo de transporte.</p>
+            <p className='w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Utilizamos cobertores e capas apropriadas para proteger todos os móveis e eletrodomésticos, Além de materiais como plástico bolha e papelão ondulado, Garantindo mais segurança durante todo o processo de transporte.</p>
         
-            <p className='reveal w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Profissionais organizados e preparados para realizar sua mudança com agilidade, Eficiência e toda a segurança que sua família precisa, Não corra riscos, confie sua mudança a quem realmente entende do assunto!</p>
+            <p className='w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Profissionais organizados e preparados para realizar sua mudança com agilidade, Eficiência e toda a segurança que sua família precisa, Não corra riscos, confie sua mudança a quem realmente entende do assunto!</p>
             
         </section>
         </>

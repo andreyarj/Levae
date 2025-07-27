@@ -9,7 +9,7 @@ function AboutFurnitureStorage() {
 
             <LocalPage FirstText='Inicio → Serviço → ' SecoundText='Guarda Móvel'/>
 
-            <p className='reveal w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Box fechados com total segurança, Dedetizado e monitorado 24hs, De forma organizada, Retiramos, Embalamos, Inventariamos e identificamos seus produtos através de etiquetas personalizadas, Oferecendo aos clientes um serviço confiável e eficiente sem você pagar nada à mais por isto.</p>
+            <p className='w-full h-auto font-Stara dark:text-white text-darkslate 5:text-[1.5rem] text-[1rem] text-justify'>Box fechados com total segurança, Dedetizado e monitorado 24hs, De forma organizada, Retiramos, Embalamos, Inventariamos e identificamos seus produtos através de etiquetas personalizadas, Oferecendo aos clientes um serviço confiável e eficiente sem você pagar nada à mais por isto.</p>
 
         </section>
         </>

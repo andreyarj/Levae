@@ -10,7 +10,7 @@ import Leandro from './../../Imagem/FeedbackFace/Leandro.jpg';
 function Feedbacks() {
     return (
         <>
-        <section id='Feedbacks' className='reveal snap-x snap-mandatory scroll-p-[20px] overflow-x-scroll flex flex-row flex-nowrap items-start justify-start gap-[40px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
+        <section id='Feedbacks' className='snap-x snap-mandatory scroll-p-[20px] overflow-x-scroll flex flex-row flex-nowrap items-start justify-start gap-[40px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
 
             <Feedback Image={Juliana} Name='Juliana Martins' Service='Suporte' Paragraph='"A Levaê embalou e transportou tudo com extremo cuidado. Minha Mudança foi tranquila do início ao fim."'/>
             
@@ -32,7 +32,7 @@ function Feedbacks() {
 function Feedback({Image, Name, Service, Paragraph}) {
     return (
         <>
-        <div className=' snap-center flex flex-col flex-nowrap items-center justify-center gap-[10px] 375:min-w-[320px] 6:min-w-[350px] min-w-[280px] 6:h-[210px] h-[200px] 6:p-[15px] p-[10px] dark:bg-gray bg-slate rounded-[10px]'>
+        <div className='snap-center flex flex-col flex-nowrap items-center justify-center gap-[10px] 375:min-w-[320px] 6:min-w-[350px] min-w-[280px] 6:h-[210px] h-[200px] 6:p-[15px] p-[10px] dark:bg-gray bg-slate rounded-[10px]'>
             
             <div className='flex flex-row flex-nowrap items-center justify-center gap-[10px] w-full h-auto'>
                 

@@ -11,7 +11,21 @@ import ResidentialChangePage from './Pages/ResidentialChangePage';
 import FurnitureStoragePage from './Pages/FurnitureStoragePage';
 import SupportPage from './Pages/SupportPage';
 
+import ScrollReveal from 'scrollreveal';
+import { useEffect } from 'react';
+
 function App() {
+
+  useEffect(() => {
+    ScrollReveal().reveal('.reveal', {
+      origin: 'bottom',
+      distance: '50px',
+      duration: 1000,
+      easing: 'ease-in-out',
+      reset: true,
+    });
+  }, []);
+
   return (
     <>
     <Router>

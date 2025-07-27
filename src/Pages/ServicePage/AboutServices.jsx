@@ -20,7 +20,7 @@ function Service({Class, Text, To}) {
 
     return (
         <>
-            <Link to={To} className={`flex flex-col flex-nowrap items-center justify-center ${Class} max-w-[350px] w-full h-[220px] rounded-[20px]`}>
+            <Link to={To} className={`reveal flex flex-col flex-nowrap items-center justify-center ${Class} max-w-[350px] w-full h-[220px] rounded-[20px]`}>
 
                 <h1 className='w-auto h-auto font-Glacier text-center text-[2rem] text-white'>{Text}</h1>            
             

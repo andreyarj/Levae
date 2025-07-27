@@ -10,7 +10,7 @@ import Leandro from './../../Imagem/FeedbackFace/Leandro.jpg';
 function Feedbacks() {
     return (
         <>
-        <section id='Feedbacks' className='snap-x snap-mandatory scroll-p-[20px] overflow-x-scroll flex flex-row flex-nowrap items-start justify-start gap-[40px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
+        <section id='Feedbacks' className='reveal snap-x snap-mandatory scroll-p-[20px] overflow-x-scroll flex flex-row flex-nowrap items-start justify-start gap-[40px] w-full h-auto 6:px-[60px] 6:py-[40px] p-[20px] dark:bg-darkslate bg-white'>
 
             <Feedback Image={Juliana} Name='Juliana Martins' Service='Suporte' Paragraph='"A Levaê embalou e transportou tudo com extremo cuidado. Minha Mudança foi tranquila do início ao fim."'/>
             
